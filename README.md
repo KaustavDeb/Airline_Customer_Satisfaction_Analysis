@@ -3,7 +3,7 @@
 Linguistics</br>
 <h3>AIM:</h3>
 To predict whether a given SMS is a spam message or not.</br>
-Data link : kaggle datasets download -d uciml/sms-spam-collection-dataset </br>
+Data link : https://www.kaggle.com/uciml/sms-spam-collection-dataset/notebooks </br>
 <h3>Software used</h3>
 Python</br>
 <h3> Content</h3>
